@@ -33,4 +33,4 @@ client.login('token');
 
 ## Telif Hakkı
 
-  - BlackOrder Dev.: [**Tıkla!**](https://discord.gg/codeshare)
+  - BlackOrder Devs: [**Tıkla!**](https://discord.gg/codeshare)
